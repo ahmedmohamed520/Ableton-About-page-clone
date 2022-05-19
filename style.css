@@ -98,9 +98,9 @@ a {
     width: 60px;
     height: 28px;
     margin-right: 3rem;
-    mask-image: url("/images/ableton-hallmark.ef5355379032.svg");
+    mask-image: url("images/ableton-hallmark.ef5355379032.svg");
     mask-size: cover;
-    -webkit-mask-image: url("/images/ableton-hallmark.ef5355379032.svg");
+    -webkit-mask-image: url("images/ableton-hallmark.ef5355379032.svg");
     -webkit-mask-size: cover;
     background-color: #000;
 }
@@ -126,7 +126,7 @@ a {
     height: calc(100vh - 142px);
     width: calc(100vw - 21.4rem);
     margin: auto;
-    background-image: url("/images/header.jpg");
+    background-image: url("images/header.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -137,8 +137,8 @@ a {
     width: 43rem;
     height: 10.4rem;
     background-color: var(--orange);
-    mask-image: url("/images/ableton-wordmark.c025e3df71b3.svg");
-    -webkit-mask-image: url("/images/ableton-wordmark.c025e3df71b3.svg");
+    mask-image: url("images/ableton-wordmark.c025e3df71b3.svg");
+    -webkit-mask-image: url("images/ableton-wordmark.c025e3df71b3.svg");
     mask-size: 70%;
     mask-repeat: no-repeat;
 }
@@ -176,7 +176,7 @@ a {
 }
 .img-1 {
     position: absolute;
-    background-image: url("/images/photo-1.jpg");
+    background-image: url("images/photo-1.jpg");
     width: 42.3vw;
     height: 47.5vw;
     top: 5.5vw;
@@ -188,7 +188,7 @@ a {
     height: 28.5vw;
     top: 15vw;
     right: 4.9vw;
-    background-image: url("/images/photo-2.jpg");
+    background-image: url("images/photo-2.jpg");
 }
 /* Photos end */
 .video-section {
@@ -214,7 +214,7 @@ a {
 }
 .playBtn {
     content: "";
-    background-image: url("/images/D7mpnG56zsvu2.svg");
+    background-image: url("images/D7mpnG56zsvu2.svg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -251,16 +251,16 @@ a {
     position: absolute;
 }
 .photo-3 {
-    background-image: url("/images/photo-3.jpg");
+    background-image: url("images/photo-3.jpg");
     top: 9.6vw;
 }
 .photo-4 {
-    background-image: url("/images/photo-4.jpg");
+    background-image: url("images/photo-4.jpg");
     bottom: 9.6vw;
 }
 .photo-5 {
     position: absolute;
-    background-image: url("/images/photo-5.jpg");
+    background-image: url("images/photo-5.jpg");
     width: 42.3vw;
     height: 47.7vw;
     top: 19.1vw;
@@ -271,7 +271,7 @@ a {
 .big-photo {
     width: 84.8vw;
     height: 37.5vw;
-    background-image: url("/images/poster-meet-the-makers.jpg");
+    background-image: url("images/poster-meet-the-makers.jpg");
     margin: auto;
 }
 /* big photo end */
@@ -293,7 +293,7 @@ a {
     top: 19vw;
     height: 28.5vw;
     width: 33.9vw;
-    background-image: url("/images/photo-6-a.jpg");
+    background-image: url("images/photo-6-a.jpg");
 }
 .photo-7 {
     position: absolute;
@@ -301,7 +301,7 @@ a {
     right: 0;
     height: 47.7vw;
     width: 42.3vw;
-    background-image: url("/images/photo-7.jpg");
+    background-image: url("images/photo-7.jpg");
 }
 /* Photos 3 end */
 /* jobs start */
@@ -314,7 +314,7 @@ a {
 }
 .jobs-img {
     flex: 0 0 41.2vw;
-    background-image: url("/images/photo-8.jpg");
+    background-image: url("images/photo-8.jpg");
 }
 .jobs-text {
     padding: 11.5vw 8.5vw;
@@ -483,9 +483,9 @@ select {
     .nav-opener::after {
         content: "";
         display: inline-block;
-        mask-image: url("/images/DXUaN1jNvOLXG.svg");
+        mask-image: url("images/DXUaN1jNvOLXG.svg");
         mask-size: cover;
-        -webkit-mask-image: url("/images/DXUaN1jNvOLXG.svg");
+        -webkit-mask-image: url("images/DXUaN1jNvOLXG.svg");
         -webkit-mask-size: cover;
         mask-position: center;
         -webkit-mask-position: center;
